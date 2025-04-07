@@ -7,5 +7,3 @@ Videos were created with the Manim library, which is used to create precise math
 
 https://www.youtube.com/@MathPortalVisualSolutions
 
-
-
